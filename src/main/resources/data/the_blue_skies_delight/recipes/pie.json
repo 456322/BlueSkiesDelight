@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "sss",
+    "mOm"
+  ],
+  "key": {
+    "s": {
+      "item": "blue_skies:crescent_fruit"
+    },
+    "m": {
+      "tag": "forge:milk"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    }
+  },
+  "result": {
+    "item": "the_blue_skies_delight:crescent_pie"
+  }
+}
